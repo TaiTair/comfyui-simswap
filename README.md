@@ -30,7 +30,7 @@ My objective for this was just to get the simswap model working in ComfyUI for m
 
 ## Thanks and Credits
 
-Thanks to all the creators mentionned in the Reactor Credits.
+Thanks to all the creators mentioned in the Reactor Credits.
 
 <details>
 	<summary><a>Click to expand</a></summary>
