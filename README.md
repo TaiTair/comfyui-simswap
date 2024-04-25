@@ -50,8 +50,8 @@ Thanks to all the creators mentionned in the Reactor Credits.
 [facexlib](https://github.com/xinntao/facexlib) - [@xinntao](https://github.com/xinntao) <br>
 
 [@s0md3v](https://github.com/s0md3v), [@henryruhs](https://github.com/henryruhs) - the original Roop App <br>
-[@ssitu](https://github.com/ssitu) - the first version of [ComfyUI_roop](https://github.com/ssitu/ComfyUI_roop) extension
-[neuralchen](https://github.com/neuralchen/SimSwap) - The official implementation of Simswap
+[@ssitu](https://github.com/ssitu) - the first version of [ComfyUI_roop](https://github.com/ssitu/ComfyUI_roop) extension <br>
+[neuralchen](https://github.com/neuralchen/SimSwap) - The official implementation of Simswap <br><br>
 
 And thanks to anyone else that was involved in the creation of this node that I failed to mention.
 </details>
