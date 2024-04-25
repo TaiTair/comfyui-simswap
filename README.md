@@ -10,13 +10,13 @@ git clone this repo into your comfyui/custom_nodes directory
 
 ## Models
 
-Download the simswap models from here and place them under comfyui/models/simswap: https://huggingface.co/netrunner-exe/Insight-Swap-models-onnx/tree/main
-Download the arcface model from here and place it under comfyui/models/simswap: https://github.com/neuralchen/SimSwap/blob/main/docs/guidance/preparation.md
-Download the mask from here and place it under comfyui/models/simswap: https://github.com/zllrunning/face-makeup.PyTorch/blob/master/cp/79999_iter.pth
-Download the 512 Net_G model from here and place it under comfyui/models/simswap: https://github.com/neuralchen/SimSwap/releases/download/512_beta/512.zip;
-^ It should look like comfyui/models/simswap/512/550000_net_G.pth
-Download the insightface models from here and place them under comfyui/models/simswap: https://sh23tw.dm.files.1drv.com/y4mmGiIkNVigkSwOKDcV3nwMJulRGhbtHdkheehR5TArc52UjudUYNXAEvKCii2O5LAmzGCGK6IfleocxuDeoKxDZkNzDRSt4ZUlEt8GlSOpCXAFEkBwaZimtWGDRbpIGpb_pz9Nq5jATBQpezBS
-^ It should look like comfyui/models/simswap/antelope/...
+Download the simswap models from here and place them under comfyui/models/simswap: https://huggingface.co/netrunner-exe/Insight-Swap-models-onnx/tree/main  
+Download the arcface model from here and place it under comfyui/models/simswap: https://github.com/neuralchen/SimSwap/blob/main/docs/guidance/preparation.md  
+Download the mask from here and place it under comfyui/models/simswap: https://github.com/zllrunning/face-makeup.PyTorch/blob/master/cp/79999_iter.pth  
+Download the 512 Net_G model from here and place it under comfyui/models/simswap: https://github.com/neuralchen/SimSwap/releases/download/512_beta/512.zip  
+^ It should look like comfyui/models/simswap/512/550000_net_G.pth  
+Download the insightface models from here and place them under comfyui/models/simswap: https://sh23tw.dm.files.1drv.com/y4mmGiIkNVigkSwOKDcV3nwMJulRGhbtHdkheehR5TArc52UjudUYNXAEvKCii2O5LAmzGCGK6IfleocxuDeoKxDZkNzDRSt4ZUlEt8GlSOpCXAFEkBwaZimtWGDRbpIGpb_pz9Nq5jATBQpezBS  
+^ It should look like comfyui/models/simswap/antelope/...  
 
 ## Test
 
