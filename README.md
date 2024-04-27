@@ -34,7 +34,7 @@ My objective for this was just to get the simswap model working in ComfyUI for m
 
 ## Thanks and Credits
 
-Thanks to all the creators mentioned in the Reactor Credits.
+Thanks to all the creators mentioned in the Reactor Credits, to neuralchen and to Gourrief.
 
 <details>
 	<summary><a>Click to expand</a></summary>
@@ -56,6 +56,7 @@ Thanks to all the creators mentioned in the Reactor Credits.
 [@s0md3v](https://github.com/s0md3v), [@henryruhs](https://github.com/henryruhs) - the original Roop App <br>
 [@ssitu](https://github.com/ssitu) - the first version of [ComfyUI_roop](https://github.com/ssitu/ComfyUI_roop) extension <br>
 [neuralchen](https://github.com/neuralchen/SimSwap) - The official implementation of Simswap <br><br>
+[Gourrief](https://github.com/Gourieff/comfyui-reactor-node) - The original implementation of ReActor
 
 And thanks to anyone else that was involved in the creation of this node that I failed to mention.
 </details>

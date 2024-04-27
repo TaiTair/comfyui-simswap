@@ -34,6 +34,7 @@ from .simswap.simswap_util.norm import SpecificNorm
 from .simswap.simswap_util.add_watermark import watermark_image
 from .simswap.simswap_util.reverse2original import reverse2wholeimage
 from .simswap.parsing_model.model import BiSeNet
+from .simswap.options.test_options import TestOptions
 
 import warnings
 
@@ -323,7 +324,6 @@ def swap_face(
                                 transforms.Normalize([0.485, 0.456, 0.406], [0.229, 0.224, 0.225])
                             ])
                             
-                            from .simswap.options.test_options import TestOptions
                             opt = TestOptions().parse()
                             start_epoch, epoch_iter = 1, 0
                             crop_size = 512
@@ -584,7 +584,6 @@ def swap_face_many(
                                     transforms.Normalize([0.485, 0.456, 0.406], [0.229, 0.224, 0.225])
                                 ])
                                 
-                                from .simswap.options.test_options import TestOptions
                                 opt = TestOptions().parse()
                                 start_epoch, epoch_iter = 1, 0
                                 crop_size = 512
