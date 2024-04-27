@@ -2,7 +2,7 @@
 
 A hacky implementation of Simswap based on [Comfyui ReActor Node 0.5.1](https://github.com/Gourieff/comfyui-reactor-node) and [Simswap](https://github.com/neuralchen/SimSwap)
 
-I just put this together so that I could use Simswap in my workflows. It's probably bloated with lots of unnecessary code and probably does not work optimally. A lot of the options for Simswap are not exposed and the default values are being used. But it is able to use the simswap model.
+I just put this together so that I could use Simswap in my workflows. It's probably bloated with lots of unnecessary code and probably does not work optimally. A lot of the options for Simswap are not exposed and the default values are being used. But it is able to use the simswap model, uniface and also ghost.
 
 ## Installation
 
@@ -20,7 +20,7 @@ Download the insightface models from here and place them under comfyui/models/si
 
 ## Test
 
-Load up comfyui - place the node and try it out! So far my best results were with Simswap512_unoff, restore face set to gfpgan, codeformer weight to 1.00 and restore face visibility to 0.15.
+Load up comfyui - place the node and try it out! So far my best results were with ghost_unet_3block, restore face set to gfpgan, codeformer weight to 1.00 and restore face visibility to 0.8.
 
 ## Final Notes
 
