@@ -17,10 +17,10 @@ Download the 512 Net_G model from here and place it under comfyui/models/simswap
 ^ It should look like comfyui/models/simswap/512/550000_net_G.pth
 
 Edit: I just noticed the insightface model link was broken so I replaced it.  
-Download the insightface models from here: https://huggingface.co/immich-app/antelopev2/tree/main
-You need to rename them both and place them in comfyui/models/simswap/antelope
-The recognition model should be named glintr100.onnx
-The detection model should be named scrfd_10g_bnkps.onnx
+Download the insightface models from here: https://huggingface.co/immich-app/antelopev2/tree/main  
+You need to rename them both and place them in comfyui/models/simswap/antelope  
+The recognition model should be named glintr100.onnx  
+The detection model should be named scrfd_10g_bnkps.onnx  
 
 ## Test
 
