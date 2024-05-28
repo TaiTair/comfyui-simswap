@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-simswap"
+description = "A hacky implementation of Simswap based on [a/Comfyui ReActor Node 0.5.1](https://github.com/Gourieff/comfyui-reactor-node) and [a/Simswap](https://github.com/neuralchen/SimSwap)."
+version = "1.0.0"
+license = "LICENSE"
+dependencies = ["insightface==0.7.3", "onnx>=1.14.0", "opencv-python>=4.7.0.72", "numpy", "segment_anything"]
+
+[project.urls]
+Repository = "https://github.com/TaiTair/comfyui-simswap"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "ttr"
+DisplayName = "comfyui-simswap"
+Icon = ""
